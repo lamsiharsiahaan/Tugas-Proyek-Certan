@@ -9,7 +9,7 @@
 This research was conducted with the aim of classifying the quality of cabbage based on physique using the Convolutional Neural Network method. As well as knowing the most appropriate model for the classification of cabbage also knowing the results of the classification of cabbage using the Convolutional Neural Network as a research method
 
 ## 📝 Proposed Method 
-<img align="center" src="https://github.com/lamsiharsiahaan/Tugas-Proyek-Certan/blob/main/method.jpg"><br>
+<img align="center" src="https://github.com/lamsiharsiahaan/Tugas-Proyek-Certan/blob/main/method.jpg">
 
 ## ⭐ Goals 
 This research was conducted with the aim of classifying the quality of cabbage based on physique using the Convolutional Neural Network method. As well as knowing the most appropriate model for the classification of cauliflower as well as knowing the results of the classification of cauliflower using the Convolutional Neural Network as a research method.
