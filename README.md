@@ -19,7 +19,7 @@ Please download our full proposal here:<br>
 [Full Proposal](https://github.com/lamsiharsiahaan/Tugas-Proyek-Certan/raw/main/LP-CERTAN-22-Unlisted_030_025_050.pdf)
 
 ## 🛠 Built With <a name="built-with"></a>
-### Python <a href="https://www.python.org/">Python</a>
+### <a href="https://www.python.org/">Python</a>
 
 ## 🔭 Reference
 Referensi :
