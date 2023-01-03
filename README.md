@@ -22,7 +22,6 @@ Please download our full proposal here:<br>
 ### <a href="https://www.python.org/">Python</a>
 
 ## 🔭 Reference
-Referensi :
 1. https://github.com/jullius28/Project
 2. https://medium.com/@16611077/klasifikasi-k-nearest-neighbors-knnmenggunakan-python-10c64bcb10a1
 3. https://medium.com/@dimaslombu/klasifikasi-gambar-dengan-convolutionalneural-network-cnn-addeff82445f
